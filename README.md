@@ -1,9 +1,9 @@
 <B>Empresa composta por:</B><P>
-Ian Souza - BP3051919
-Gabriel Pereira - BP3051226
-Guilherme Domingues - BP3051501
-Victor Vilas Boas - BP3052656
-Pedro Hardmann - BP3044262 
+- Ian Souza - BP3051919
+- Gabriel Pereira - BP3051226
+- Guilherme Domingues - BP3051501
+- Victor Vilas Boas - BP3052656
+- Pedro Hardmann - BP3044262 
 
 <BR>
 <P><B>Este projeto tem a finalidade de criar uma página para usuários do IFSP-BRA</B></P>
