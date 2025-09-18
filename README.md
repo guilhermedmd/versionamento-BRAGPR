@@ -11,10 +11,36 @@
 <BR>
 
 <table>
-<tr></tr><p>Primeiro Release</p>
-<tl><p>Tela de login construída, ao clicar no botão exibir mensagem “em construção” (working.html). </p>
-<p>Página de login (index.html).</p> 
-<p>Página de aviso (working.html).</p></tl>
-
+<tr>
+  <th>Primeiro Release</th>
+  <th>Segundo Release</th>
+  <th>Terceiro Release</th>
 </tr>
+<tr>
+<td>Tela de login construída, ao clicar no botão exibir mensagem “em construção” (working.html). </td>
+<td>Página de login chamando a página do administrador sem validar se os campos login e senha foram preenchidos.</td> 
+<td>Funcionamento completo</td>
+</tr>
+
+<tr>
+  <td>Página de login (index.html)</td>
+  <td>Página de login sem consistência (index.html).</td>
+  <td>Página de login atualizada com consistência</td>
+</tr>
+  <td>Página de aviso (working.html).</td>
+  <td>Página inicial para usuário administrador (pg001.html).</td>
+  <td>Página inicial para usuário administrador</td>
+
 </table>
+
+<div>Branches:
+<ul>
+  <li>main</li>
+  <li>Realise1</li>
+  <li>Realise2</li>
+</ul></div>
+
+
+<p>Pull request</p>
+<p>Adicionar botão de aba -> mapas</p>
+
